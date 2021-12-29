@@ -1,0 +1,7 @@
+node_modules
+Redux
+package-lock.
+jsonpackage.json
+public
+src
+yarn.lock
